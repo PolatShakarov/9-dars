@@ -48,7 +48,7 @@
     height: 258px;
 }
 
-@include max-width(900px) { // 900 ga kelganda bir qator pastga tushiruvchi amal
+@include max-width(900px){ // 900 ga kelganda bir qator pastga tushiruvchi amal
     .hero__inner {
         flex-direction: column; //kontentni bir qator pastga tushirib beradi
     }
